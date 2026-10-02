@@ -1,6 +1,8 @@
-streamlit>=1.40
+streamlit>=1.46
 openai>=1.40
 pymupdf
 python-docx
 scikit-learn
 pandas
+pytesseract
+pillow
